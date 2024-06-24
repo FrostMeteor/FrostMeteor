@@ -1,0 +1,3 @@
+- 👋 Hi, I’m **@FrostMeteor**
+- 👀 I’m interested in **Game Development and Coding**
+- 🌱 I’m currently learning **Godot**
